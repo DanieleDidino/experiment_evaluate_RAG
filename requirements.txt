@@ -1,0 +1,6 @@
+jupyterlab==4.0.10
+llama-index==0.9.33
+openai==1.8.0
+pypdf==4.0.0
+python-environ==0.4.54
+spacy==3.7.2
